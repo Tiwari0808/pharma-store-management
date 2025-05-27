@@ -1,12 +1,43 @@
-# React + Vite
+# 💊 Pharma Store 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional medical store web app built with **React** and **React Bootstrap**, featuring product listing, search functionality, and a smart cart system powered by **Context API**.
 
-Currently, two official plugins are available:
+## 📸 Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App Screenshot](https://via.placeholder.com/800x400?text=Pharma+Store+UI+Screenshot)
 
-## Expanding the ESLint configuration
+> *(Replace with actual screenshots once deployed)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- 🔍 **Live Search**: Find medicines instantly by name.
+- 📦 **Medicine Listing**: Shows availability and pricing.
+- 🛒 **Smart Cart System**: Add medicines to cart with quantity tracking.
+- 💚 **Cart Modal**: View cart in a modal with total price summary.
+- ⚛️ **Global State**: Uses React Context API for cart state.
+- 🎨 **Responsive UI**: Built with React Bootstrap and FontAwesome icons.
+
+---
+
+## 📂 Folder Structure
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, React Bootstrap
+- **State Management:** React Context API
+- **Icons:** React Icons (FontAwesome)
+
+---
+
+## ⚙️ Setup & Installation
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/your-username/pharma-store.git
+cd pharma-store
